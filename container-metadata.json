@@ -1,0 +1,14 @@
+{
+  "ernVersion": "0.49.2",
+  "jsApiImpls": [],
+  "miniApps": [
+    "https://github.com/gabrielgarciamendonca/agora-miniapp.git#cd65b39a6110eab19b1d9cf95dc33a1b13940f75"
+  ],
+  "nativeDeps": [
+    "react-native@0.66.5",
+    "ernnavigation-api@1.4.0",
+    "ernnavigation-api-impl-native@1.6.10",
+    "react-native-electrode-bridge@1.5.27"
+  ],
+  "platform": "android"
+}
